@@ -1,3 +1,4 @@
 # Google Cybersecurity Certificate
 An overview of projects and hands-on labs completed
 <img width="1226" height="945" alt="image" src="https://github.com/user-attachments/assets/86e1bda5-5f7c-4379-9126-f72f688168f0" />
+Completing the Google Cybersecurity Certificate has allowed me to gain knowledge of networking protocols and basic Python scripting, understanding of threat analysis and vulnerability management, and familiarity with cybersecurity tools. I have also been able to practice using tools like tcpdump, Wireshark, Suricata, Chronicle, Splunk, and VirusTotal. I would be able to apply the knowledge that I have gained through my certification studies to monitoring and analyzing security events using SIEM tools, investigating potential security incidents, and documenting processes, findings, and resolutions. 
